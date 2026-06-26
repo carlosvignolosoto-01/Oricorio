@@ -2135,7 +2135,7 @@ function CalendarSection({ genres, sessions, setSessions, onAddGenre }) {
 // MAIN APP
 // ═══════════════════════════════════════════════════════════════
 
-export default export default function Oricorio() {
+export default function Oricorio() {
   const [genres,          setGenres]          = useState(INITIAL_GENRES);
   const [showcases,       setShowcases]       = useState([]);
   const [sessions,        setSessions]        = useState([]);
