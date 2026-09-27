@@ -64,7 +64,7 @@ const DOMINIO_LEVELS = [
 ];
 
 const AGARRES = ['D-D','D-I','I-D','I-I','Dos manos','Libre'];
-const NIVELES = ['Básico','All Jr.','All Pro','Intermedio''Avanzado'];
+const NIVELES = ['Básico','All Jr.','All Pro','Intermedio','Avanzado'];
 const ORIGENES = ['Arthur Murray','Timba School','Propio'];
 
 // ─── COMPONENTES BASE ────────────────────────────────────────────────────────
