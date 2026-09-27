@@ -57,14 +57,14 @@ const Icon = ({ name, size = 22, color = 'currentColor' }) => {
 
 // ─── NIVEL DE DOMINIO ────────────────────────────────────────────────────────
 const DOMINIO_LEVELS = [
-  { id: 'aprendido', label: 'Aprendido',    emoji: '🌱', color: C.green },
+  { id: 'aprendido', label: 'Recién visto',    emoji: '🌱', color: C.green },
   { id: 'shadow',    label: 'Shadow',       emoji: '👤', color: C.orange },
-  { id: 'follower',  label: 'Con follower', emoji: '🤝', color: C.yellow },
+  { id: 'follower',  label: 'Con partner', emoji: '🤝', color: C.yellow },
   { id: 'social',    label: 'Social',       emoji: '🎉', color: C.red },
 ];
 
 const AGARRES = ['D-D','D-I','I-D','I-I','Dos manos','Libre'];
-const NIVELES = ['Fundamentos','Intermedio','Pro'];
+const NIVELES = ['Básico','All Jr.','All Pro','Intermedio''Avanzado'];
 const ORIGENES = ['Arthur Murray','Timba School','Propio'];
 
 // ─── COMPONENTES BASE ────────────────────────────────────────────────────────
